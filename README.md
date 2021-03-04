@@ -3,5 +3,5 @@
 > ADVISE:- DOWNLOAD, EXTRACT AND OPEN FILE IN YOUR MACHINE TO SEE THE GREEN CURSOR🙂
 
 GIVE IT A TRY <a href="https://himanshu007-creator.github.io/text-editor/">HERE</a>
-How it looks?
+
 ![nice-peek-deer](ss.png)
